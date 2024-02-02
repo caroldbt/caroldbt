@@ -48,7 +48,7 @@
  }
 
  ```
-<div style="text-align: center; align:center">
+<div align="center">
  <h2  align="center">Connect with me:</h2>
   <a href="https://www.linkedin.com/in/carol-burgos/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Carol Burgos">
@@ -76,6 +76,6 @@
     <img src="https://skillicons.dev/icons?i=aws,azure" alt="Azure, AWS">
   </a>
 </p>
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroldbt&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Carol Burgos" />
 </div>
