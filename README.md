@@ -48,7 +48,7 @@
  }
 
  ```
-<div style="text-align: center;">
+<div style="text-align: center; align:center">
  <h2  align="center">Connect with me:</h2>
   <a href="https://www.linkedin.com/in/carol-burgos/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Carol Burgos">
