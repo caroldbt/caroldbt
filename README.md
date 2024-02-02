@@ -48,7 +48,13 @@
  }
 
  ```
-<h2  align="center">💻Current Stack & Tools</h2>
+<div style="text-align: center;">
+ <h2  align="center">Connect with me:</h2>
+  <a href="https://www.linkedin.com/in/carol-burgos/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Carol Burgos">
+  </a>
+</div>
+<h2  align="center">💻Languages & Tools:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
