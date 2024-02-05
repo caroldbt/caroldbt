@@ -41,7 +41,21 @@
       "language": "SQL",
       "databaseEngines": ["MySQL", "PostgreSQL", "SQL Server"]
     },
-    "versionControl": ["GIT", "Azure DevOps"]
+   "versionControl": ["GIT", "Azure DevOps"],
+   "cloudStudies": [
+      {
+        "platform": "AWS",
+        "title": "AWS Cloud Practitioner",
+        "level": "Foundational",
+        "completionDate": "February 2024"
+      },
+      {
+        "platform": "Azure",
+        "title": "Microsoft Certified: Azure Fundamentals, Azure Administrator",
+        "level": "Foundational",
+        "completionDate": "February 2024"
+      }
+    ]
   }
 }
 
