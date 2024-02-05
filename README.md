@@ -30,22 +30,21 @@
       "promotion": "2023",
       "institution": "IES Virgen de la Paz"
     }
-  ]
+  ],
+  "skills": {
+    "operatingSystems": ["Linux", "Windows", "Mac", "Android"],
+    "frontEndLanguages": ["HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "Bootstrap", "SVG/Canvas", "React", "Sass"],
+    "backEndLanguages": ["Java (POO, MVC)", "PHP (POO, MVC)", "Python"],
+    "windowsLanguages": ["Visual Basic", "C#"],
+    "mobileAppLanguages": ["Android with Java"],
+    "databases": {
+      "language": "SQL",
+      "databaseEngines": ["MySQL", "PostgreSQL", "SQL Server"]
     },
-    "skills": {
-      "operatingSystems": ["Linux", "Windows", "Mac", "Android"],
-      "frontEndLanguages": ["HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "Bootstrap", "SVG/Canvas","React","Sass"],
-      "backEndLanguages": ["Java (POO, MVC)", "PHP (POO, MVC)", "Python"],
-      "windowsLanguages": ["Visual Basic", "C#"],
-      "mobileAppLanguages": ["Android with Java"],
-      "databases": {
-        "language": "SQL",
-        "databaseEngines": ["MySQL", "PostgreSQL", "SQL Server"]
-      },
-      "versionControl": ["GIT", "Azure DevOps"]
-    }
-  ]
- }
+    "versionControl": ["GIT", "Azure DevOps"]
+  }
+}
+
 
  ```
 <div align="center">
