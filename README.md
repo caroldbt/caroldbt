@@ -75,7 +75,7 @@
 </div>
 <div align="center">
  <h2  align="center">Mi portafolio:</h2>
-  <a href="https://carolburgos.netlify.app/"></a>
+  <a href="https://carolburgos.netlify.app/" align="center"></a>
 </div>
 https://carolburgos.netlify.app/
 <h2  align="center">💻Languages & Tools:</h2>
