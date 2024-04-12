@@ -7,12 +7,11 @@
   "personalInformation": {
     "name": "Carol Burgos",
     "location": "Madrid",
-    "email": "carol123dbt@gmail.com",
     "linkedin": "https://www.linkedin.com/in/carol-burgos/"
   },
   "studies": [
     {
-      "title": "Web Developer with .Net and Cloud",
+      "title": "Web Developer with .Net  for Micropsoft Azure",
       "technologies": ["Azure", "AWS", "C#", ".Net"],
       "period": {
         "start": "October 2023",
@@ -34,12 +33,12 @@
   "skills": {
     "operatingSystems": ["Linux", "Windows", "Mac", "Android"],
     "frontEndLanguages": ["HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "Bootstrap", "SVG/Canvas", "React", "Sass"],
-    "backEndLanguages": ["Java (POO, MVC)", "PHP (POO, MVC)", "Python"],
+    "backEndLanguages": ["Java (MVC)", "Python"],
     "windowsLanguages": ["Visual Basic", "C#"],
     "mobileAppLanguages": ["Android with Java"],
     "databases": {
       "language": "SQL",
-      "databaseEngines": ["MySQL", "PostgreSQL", "SQL Server"]
+      "databaseEngines": ["MySQL", "SQL Server"]
     },
    "versionControl": ["GIT", "Azure DevOps"],
    "cloudStudies": [
@@ -86,7 +85,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,py,php,java,mysql,postgres,dotnet,postman" alt="Android, Python, PHP, Java, MySQL, PostGreSql, C#, .Net, postman">
+    <img src="https://skillicons.dev/icons?i=androidstudio,py,php,java,mysql,postgres,dotnet,postman" alt="Android, Python, Java, MySQL, C#, .Net, postman">
   </a>
 </p>
 <p align="center">
