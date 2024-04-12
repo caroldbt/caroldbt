@@ -11,7 +11,7 @@
   },
   "studies": [
     {
-      "title": "Web Developer with .Net  for Micropsoft Azure",
+      "title": "Web Developer with .Net  for Microsoft Azure",
       "technologies": ["Azure", "AWS", "C#", ".Net"],
       "period": {
         "start": "October 2023",
