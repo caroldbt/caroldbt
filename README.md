@@ -11,6 +11,46 @@
   },
   "studies": [
     {
+      "title": "AWS Systems Programmer",
+      "technologies": {
+          "Automate and deploy product in Docker environments": "Automate deployment and management of products using Docker containers.",
+          "Networking": "VPC, Route53, Direct Connect.",
+          "Compute": "EC2, ECS, Lambda, Elastic Beanstalk.",
+          "Storage": "S3, CloudFront, EFS, Storage Gateway, Glacier, Snowball.",
+          "Database": "DynamoDB, RDS, ElastiCache, DMS, Redshift.",
+          "Frameworks": "Django, React, Vue.js.",
+          "Operating System": "Linux.",
+          "Scripting": "Bash, Python.",
+          "DevOps Tools": "Docker, Terraform, Kubernetes, Nagios, Grafana, Apache, Prometheus, Cloud9, Ansible, Jenkins."
+     },
+      "period": {
+        "start": "March 2024",
+        "end": "July 2024"
+      },
+      "institution": "Tajamar"
+    },
+    {
+      "title": "Azure Solutions Architect",
+      "technologies": {
+         "Azure Active Directory": "Manage user identities securely.",
+         "Azure Governance": "Administer subscriptions, implement policies, and use role-based access control.",
+         "Azure Tools": "Azure portal, Cloud Shell, PowerShell, CLI, Resource Manager.",
+         "Virtual Networking": "Configure virtual networks, subnets, security groups, Azure Firewall, DNS.",
+         "Connectivity": "VNet Peering, Virtual Network Gateways, Site-to-Site Connections.",
+         "Network Traffic Management": "Routing, service endpoints, Load Balancer, Application Gateway, Traffic Manager.",
+         "Storage": "Storage accounts, blob storage, Azure files, security, and tools.",
+         "Virtual Machines": "Planning, deployment, availability, extensions.",
+         "Serverless Computing": "Azure App Service, Container Instances, Kubernetes.",
+         "Backup": "Files, folders, virtual machines.",
+         "Monitoring": "Azure Monitor, alerts, log analytics."
+      },
+      "period": {
+        "start": "March 2024",
+        "end": "May 2024"
+      },
+      "institution": "PUE"
+    },
+    {
       "title": "Web Developer with .Net  for Microsoft Azure",
       "technologies": ["Azure", "AWS", "C#", ".Net"],
       "period": {
