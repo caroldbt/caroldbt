@@ -141,3 +141,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroldbt&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Carol Burgos" />
 </div>
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/caroldbt/count.svg" />
+</p>
