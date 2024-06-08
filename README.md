@@ -120,22 +120,27 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vue,react" alt="HTML, CSS, SASS, Bootstrap, JavaScript, Vue, React">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vue,react" alt="HTML, CSS, SASS, Bootstrap, JavaScript, Vue, React, Flask">
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,py,php,java,mysql,postgres,dotnet,postman" alt="Android, Python, Java, MySQL, C#, .Net, postman">
+    <img src="https://skillicons.dev/icons?i=androidstudio,py,php,java,mysql,postgres,mongodb,dotnet,postman" alt="Android, Python, Java, MySQL, C#, .Net, postman">
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,idea" alt="Eclipse, VisualStudio, Visual Studio Code, Intellij">
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,idea,notion" alt="Eclipse, VisualStudio, Visual Studio Code, Intellij,notion">
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure" alt="Azure, AWS">
+    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,grafana" alt="Azure, AWS, Kubernetes, Docker, Terraform, Ansible,Grafana">
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,powershell,bash" alt="MAc,Windows, Linux, Powershell, Bash">
   </a>
 </p>
 <div align="center">
