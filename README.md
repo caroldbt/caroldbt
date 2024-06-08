@@ -120,7 +120,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vue,react" alt="HTML, CSS, SASS, Bootstrap, JavaScript, Vue, React, Flask">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vue,react,flask" alt="HTML, CSS, SASS, Bootstrap, JavaScript, Vue, React, Flask">
   </a>
 </p>
 <p align="center">
