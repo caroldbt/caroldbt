@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Carol Burgos</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Carol Burgos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100px"></h1>
 <h2 align="center" style="color: blue;">About me</h2>
 
  ```json
