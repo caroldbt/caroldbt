@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! 👋, I'm Carol Burgos</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Carol Burgos</h1>
 <h2 align="center" style="color: blue;">About me</h2>
 
  ```json
@@ -143,6 +143,6 @@
 </div>
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" /><br>
   <img src="https://profile-counter.glitch.me/caroldbt/count.svg" />
 </p>
