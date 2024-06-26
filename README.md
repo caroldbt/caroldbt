@@ -103,8 +103,6 @@
     ]
   }
 }
-
-
  ```
 <div align="center">
  <h2  align="center">Connect with me:</h2>
@@ -144,7 +142,9 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroldbt&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Carol Burgos" />
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroldbt&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=caroldbt&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20width=%22400"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caroldbt&theme=chartreuse-dark"></p>
+<p align="center"></p>
 </div>
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
