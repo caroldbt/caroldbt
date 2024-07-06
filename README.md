@@ -92,13 +92,13 @@
         "platform": "Azure",
         "title": "Microsoft Certified: Azure Fundamentals",
         "level": "Foundational",
-        "completionDate": "February 2024"
+        "completionDate": "March 2024"
       },
       {
         "platform": "Azure",
         "title": "Microsoft Certified: Azure Administrator",
         "level": "Foundational",
-        "completionDate": "February 2024"
+        "completionDate": "July 2024"
       }
     ]
   }
