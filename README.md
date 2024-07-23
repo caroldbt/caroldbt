@@ -111,7 +111,6 @@
   </a>
 </div>
 <div align="center">
- <h2  align="center">Mi portafolio:</h2>
   <a href="https://carolburgos.netlify.app/" align="center">https://carolburgos.netlify.app/</a>
 </div>
 <h2  align="center">💻Languages & Tools:</h2>
