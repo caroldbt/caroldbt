@@ -127,12 +127,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,idea,notion" alt="Eclipse, VisualStudio, Visual Studio Code, Intellij,notion">
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,idea,notion,github,githubactions,gitlab,bitbucket" alt="Eclipse, VisualStudio, Visual Studio Code, Intellij,notion">
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,grafana" alt="Azure, AWS, Kubernetes, Docker, Terraform, Ansible,Grafana">
+    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,grafana,prometheus" alt="Azure, AWS, Kubernetes, Docker, Terraform,Grafana">
   </a>
 </p>
 <p align="center">
