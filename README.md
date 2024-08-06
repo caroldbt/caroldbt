@@ -5,9 +5,7 @@
  ```json
 {
   "personalInformation": {
-    "name": "Carol Burgos",
-    "location": "Madrid",
-    "linkedin": "https://www.linkedin.com/in/carol-burgos/"
+    "name": "Carol Burgos"
   },
   "studies": [
     {
@@ -21,7 +19,7 @@
           "Frameworks": "Django, React, Vue.js.",
           "Operating System": "Linux.",
           "Scripting": "Bash, Python.",
-          "DevOps Tools": "Docker, Terraform, Kubernetes, Nagios, Grafana, Apache, Prometheus, Cloud9, Ansible, Jenkins."
+          "DevOps Tools": "Docker, Terraform, Kubernetes, Nagios, Grafana, Prometheus, Cloud9, Apache, NGINX"
      },
       "period": {
         "start": "March 2024",
@@ -69,75 +67,38 @@
       "promotion": "2023",
       "institution": "IES Virgen de la Paz"
     }
-  ],
-  "skills": {
-    "operatingSystems": ["Linux", "Windows", "Mac", "Android"],
-    "frontEndLanguages": ["HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "Bootstrap", "SVG/Canvas", "React", "Sass"],
-    "backEndLanguages": ["Java (MVC)", "Python"],
-    "windowsLanguages": ["Visual Basic", "C#"],
-    "mobileAppLanguages": ["Android with Java"],
-    "databases": {
-      "language": "SQL",
-      "databaseEngines": ["MySQL", "SQL Server"]
-    },
-   "versionControl": ["GIT", "Azure DevOps"],
-   "cloudStudies": [
-      {
-        "platform": "AWS",
-        "title": "AWS Cloud Practitioner",
-        "level": "Foundational",
-        "completionDate": "February 2024"
-      },
-      {
-        "platform": "Azure",
-        "title": "Microsoft Certified: Azure Fundamentals",
-        "level": "Foundational",
-        "completionDate": "March 2024"
-      },
-      {
-        "platform": "Azure",
-        "title": "Microsoft Certified: Azure Administrator",
-        "level": "Foundational",
-        "completionDate": "July 2024"
-      }
-    ]
-  }
+  ]
 }
  ```
+
 <div align="center">
  <h2  align="center">Connect with me:</h2>
   <a href="https://www.linkedin.com/in/carol-burgos/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Carol Burgos">
   </a>
 </div>
-<div align="center">
-  <a href="https://carolburgos.netlify.app/" align="center">https://carolburgos.netlify.app/</a>
-</div>
+<table>
+<thead>
+  <tr>
+    <th> AZ-900: Azure Fundamentals</th>
+    <th> AZ-104: Azure Administrator</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+        <a href="https://www.credly.com/badges/3a9e50bf-55f1-49d4-9182-fee4ff5fc595/public_url"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
+    </td>
+    <td>
+        <a href="https://learn.microsoft.com/en-us/users/carol-1697/credentials/544569c4d8a589eb"><img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a> 
+    </td>
+  </tr>
+</tbody>
+</table>
 <h2  align="center">💻Languages & Tools:</h2>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vue,react,flask" alt="HTML, CSS, SASS, Bootstrap, JavaScript, Vue, React, Flask">
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,py,php,java,mysql,postgres,mongodb,dotnet,postman" alt="Android, Python, Java, MySQL, C#, .Net, postman">
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,idea,notion,github,githubactions,gitlab,bitbucket" alt="Eclipse, VisualStudio, Visual Studio Code, Intellij,notion">
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,grafana,prometheus" alt="Azure, AWS, Kubernetes, Docker, Terraform,Grafana">
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,linux,powershell,bash" alt="MAc,Windows, Linux, Powershell, Bash">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vue,react,flask,py,php,java,mysql,postgres,mongodb,dotnet,postman,apple,windows,linux,powershell,bash,github,githubactions,gitlab,bitbucket,aws,azure,kubernetes,docker,terraform,grafana,prometheus" >
   </a>
 </p>
 <div align="center">
