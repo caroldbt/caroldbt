@@ -8,6 +8,23 @@
     "name": "Carol Burgos"
   },
   "studies": [
+     {
+      "title": "Sysops Cloud Operator",
+      "technologies": {
+        "Formación especializada en administración, operación y monitoreo de infraestructuras en la nube": "AWS.",
+        "Implementación y gestión de servicios críticos": "EC2, RDS, S3, Elastic Load Balancing.",
+        "Automatización de infraestructuras": "CloudFormation, Terraform.",
+        "Monitoreo de recursos": "CloudWatch.",
+        "Optimización de rendimiento y costos": "Estrategias de optimización en la nube.",
+        "Seguridad en la nube": "IAM, políticas de acceso.",
+        "Alta disponibilidad y recuperación ante desastres": "Prácticas avanzadas en la nube."
+    },
+      "period": {
+        "start": "September 2024",
+        "end": "October 2024"
+      },
+      "institution": "Experis"
+    },
     {
       "title": "AWS Systems Programmer",
       "technologies": {
