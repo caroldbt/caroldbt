@@ -11,13 +11,13 @@
      {
       "title": "Sysops Cloud Operator",
       "technologies": {
-        "Formación especializada en administración, operación y monitoreo de infraestructuras en la nube": "AWS.",
-        "Implementación y gestión de servicios críticos": "EC2, RDS, S3, Elastic Load Balancing.",
-        "Automatización de infraestructuras": "CloudFormation, Terraform.",
-        "Monitoreo de recursos": "CloudWatch.",
-        "Optimización de rendimiento y costos": "Estrategias de optimización en la nube.",
-        "Seguridad en la nube": "IAM, políticas de acceso.",
-        "Alta disponibilidad y recuperación ante desastres": "Prácticas avanzadas en la nube."
+        "Specialized training in cloud infrastructure administration, operation, and monitoring": "AWS.",
+        "Implementation and management of critical services": "EC2, RDS, S3, Elastic Load Balancing.",
+        "Infrastructure automation": "CloudFormation, Terraform.",
+        "Resource monitoring": "CloudWatch.",
+        "Performance and cost optimization": "Cloud optimization strategies.",
+        "Cloud security": "IAM, access policies.",
+        "High availability and disaster recovery": "Advanced cloud practices."
     },
       "period": {
         "start": "September 2024",
