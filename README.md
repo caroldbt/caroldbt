@@ -99,6 +99,7 @@
   <tr>
     <th> AZ-900: Azure Fundamentals</th>
     <th> AZ-104: Azure Administrator</th>
+    <th> AZ-305: Azure Solutions Architect Expert</th>
   </tr>
 </thead>
 <tbody>
@@ -108,6 +109,9 @@
     </td>
     <td>
         <a href="https://learn.microsoft.com/en-us/users/carol-1697/credentials/544569c4d8a589eb"><img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a> 
+    </td>
+   <td>
+        <a href="https://learn.microsoft.com/es-es/users/carol-1697/credentials/4ab21572f8c213f7"><img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-solutions-architect-expert.png"></a> 
     </td>
   </tr>
 </tbody>
